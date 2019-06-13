@@ -41,3 +41,5 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+# Google App Engine generated folder
+appengine-generated/
